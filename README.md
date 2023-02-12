@@ -1,2 +1,2 @@
 # Hypothetic
-Token Grabber Generator
+Discord Token Grabber Generator Written In Python
