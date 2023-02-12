@@ -68,7 +68,6 @@ gra_side = customtkinter.CTkLabel(master=sb_frame, text='', image=ImageTk.PhotoI
 gra_side.pack(pady=10)
 gra_side.place(x=15,y=50)
 
-log = Image.open(os.getcwd() + '\\src\\images\\hypothetic_logo.png').resize((220, 30))
 fadsfda = Image.open(os.getcwd() + '\\src\\images\\x.png').resize((32, 32))
 asfdjkl = Image.open(os.getcwd() + '\\src\\images\\bg.png').resize((350, 30))
 
